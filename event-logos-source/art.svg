@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <path d="
+    M 8 80
+    L 8 120
+    l 88 0
+    -64 -64
+    z"/>
+  <path d="
+    M 100 120
+    l -36 -36
+    20 -20
+    36 36
+    L 120 120
+    z"/>
+  <circle cx="96" cy="32" r="16"/>
+</svg>

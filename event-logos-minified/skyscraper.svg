@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><mask id="A"><path fill="#fff" d="M8 8h112v112H8z"/><path d="M32 120L51.2 8h6.4L48 120zm24 0L60.8 8h6.4L72 120zm24 0L70.4 8h6.4L96 120z"/><path d="M8 112h112v8H8zm0-42h112v6.8H8zm0-30h112v5.6H8zm0-20h112v4.4H8zM8 8h112v3.2H8z" fill="#fff"/></mask><path d="M24 120L48 8h32l24 112z" mask="url(#A)"/></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <mask id="size">
+    <rect x="8" y="8" width="112" height="112" fill="#fff"/>
+  </mask>
+  <g mask="url(#size)">
+    <g transform="translate(20 4) rotate(-30 64 64)">
+      <path d="
+        M 74 128
+        l 0 -56
+        16 -8
+        0 -16
+        -26 13
+        -26 -13
+        0 16
+        16 8
+        0 56
+        z"/>
+      <path d="
+        M 30 41
+        l 34 17
+        34 -17
+        0 -8
+        -34 -17
+        -34 17
+        z"/>
+    </g>
+  </g>
+</svg>

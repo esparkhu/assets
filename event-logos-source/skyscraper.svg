@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <mask id="windows">
+    <rect x="8" y="8" width="112" height="112" fill="#fff"/>
+    <path d="
+      M 32 120
+      L 51.2 8
+      57.6 8
+      48 120
+      z" fill="#000"/>
+    <path d="
+      M 56 120
+      L 60.8 8
+      67.2 8
+      72 120
+      z" fill="#000"/>
+    <path d="
+      M 80 120
+      L 70.4 8
+      76.8 8
+      96 120
+      z" fill="#000"/>
+    <rect x="8" y="112" width="112" height="8" fill="#fff"/>
+    <rect x="8" y="70" width="112" height="6.8" fill="#fff"/>
+    <rect x="8" y="40" width="112" height="5.6" fill="#fff"/>
+    <rect x="8" y="20" width="112" height="4.4" fill="#fff"/>
+    <rect x="8" y="8" width="112" height="3.2" fill="#fff"/>
+  </mask>
+  <path d="
+    M 24 120
+    L 48 8
+    80 8
+    104 120
+    z" mask="url(#windows)"/>
+</svg>

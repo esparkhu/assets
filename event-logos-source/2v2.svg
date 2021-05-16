@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect
+    width="49"
+    height="49"
+    x="8"
+    y="8"/>
+  <rect
+    fill="#0000"
+    stroke="#000"
+    stroke-width="8"
+    width="41"
+    height="41"
+    x="71"
+    y="12"/>
+  <rect
+    width="49"
+    height="49"
+    x="67"
+    y="67"/>
+  <rect
+    fill="#0000"
+    stroke="#000"
+    stroke-width="8"
+    width="41"
+    height="41"
+    x="12"
+    y="71"/>
+</svg>
