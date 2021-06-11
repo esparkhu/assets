@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
   <mask id="ten">
     <rect x="0" y="0" width="128" height="128" fill="#fff"/>
-    <rect x="46" y="50" width="8" height="44"/>
-    <ellipse cx="74" cy="72" rx="14" ry="22"/>
+    <rect x="46" y="50" width="8" height="44" fill="#000"/>
+    <ellipse cx="74" cy="72" rx="14" ry="22" fill="#000"/>
     <ellipse cx="74" cy="72" rx="6" ry="14" fill="#fff"/>
   </mask>
   <path d="

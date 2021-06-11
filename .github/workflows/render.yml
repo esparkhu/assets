@@ -1,0 +1,25 @@
+name: Build Renderer and Render
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build_render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+      - uses: actions/checkout@v2
+
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Build Renderer
+      - run: |
+          cd render
+          cargo build --release
+
+      - name: Render Images
+      - run: render/target/release/render

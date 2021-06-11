@@ -30,7 +30,7 @@
     <!-- This works in the browser, but many online converters
          seem unable to handle <use>, maybe because of the change
          from xlink:href to just href in SVG 2. -->
-    <use href="#handle" fill="#000"/>
+    <use href="#handle"/>
     <use href="#handle" transform="rotate(-90 64 64)"/>
     <rect x="55" y="75" width="18" height="15"/>
     <path d="
