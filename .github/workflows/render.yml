@@ -25,3 +25,9 @@ jobs:
 
       - name: Render Images
         run: render/target/release/render
+
+      - name: Commit Rendered Images
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Render images.
+          branch: build
